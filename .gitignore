@@ -7,7 +7,16 @@ node_modules
 *~
 *.swp
 
-
+*.pt
+*.pth
+*.zip
+*.tar.gz
+*.html
+*.html.*
+*.ru
+*.en
+log
+log.txt
 
 env.sh
 # Byte-compiled / optimized / DLL files
