@@ -19,6 +19,13 @@ ds_utils
 storage
 log
 log.txt
+*.png
+
+checkpoint.py
+plotter.py
+torch_utils.py
+train.py
+magic.py
 
 env.sh
 # Byte-compiled / optimized / DLL files
